@@ -3,4 +3,4 @@ print "I'm script1"
 
 print "I'm script 1.1"
 
-print "this line is pushed using PyCharm"
+print "I'm script 1.2"
